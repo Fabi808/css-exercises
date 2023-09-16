@@ -1,0 +1,13 @@
+button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#ichi {
+  color: white;
+  background-color: black;
+}
+
+#ni {
+  background-color: yellow;
+}
